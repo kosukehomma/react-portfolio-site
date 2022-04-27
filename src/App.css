@@ -159,4 +159,7 @@ h3 {
 .example {
   font-size: 20px;
   color: #fff;
+  background: #000;
+  text-align: center;
+  border: 1px solid black;
 }
